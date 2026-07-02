@@ -1,2 +1,2 @@
 # E-com
-Creating new expresss Js based backend system and frontend reactJs with state management using reduxjs-toolkit
+Creating new expresss Js based backend system and reactJs frontend side with state management using reduxjs-toolkit
